@@ -21,7 +21,6 @@ Visual components and Python
 ![Screenshot 2024-12-12 212910](https://github.com/user-attachments/assets/06fdb54f-65f6-4fdc-9974-01dfd8ccee47)
 
 
-![Screenshot 2024-12-12 212917](https://github.com/user-attachments/assets/5cd0319e-f059-4125-b94f-60466b069801)
 
 
 
