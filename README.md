@@ -72,6 +72,10 @@ Visual components and Python
     print("Warning! Objects Over flow will happen in the conveyor")
      print("----------------------------------------------------------------------")
 
+```
+Name:yashwanth.asv
+Reg no:24900018
+```
 
 ## Output
 
